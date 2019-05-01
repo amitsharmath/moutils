@@ -1,0 +1,14 @@
+Package: moutils
+Type: Package
+Title: My overall utility functions
+Version: 0.1.0
+Author: Amit Sharma
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr
+RoxygenNote: 6.1.1
